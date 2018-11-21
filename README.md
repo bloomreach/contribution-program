@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.bloomreach.com/webfiles/1540286480742/com-assets/img/logo.svg" width="100">
+<img src="https://www.bloomreach.com/webfiles/1540286480742/com-assets/img/logo.svg" width="400">
 <h1 align="center">BloomReach Contribution Program</h1>
 </p>
 
