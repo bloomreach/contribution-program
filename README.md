@@ -33,7 +33,7 @@ If you have any questions about a certain topic or any suggestions, you are welc
 
 While this is not a paid position, our evangelism team set up the program so the more impact you make, the more perks you will get. For a detailed list, visit our Contribution Program Page. As a thank you, we will send you:
 
-- **A $100 Amazon voucher** 
+- **A $150 Amazon voucher**
 - Custom swag (t-shirts, anyone?)
 - List you on [bloomreach.com](https://developers.bloomreach.com) to make you a real BloomReach community author.
 - Tickets to participate in experiences such as BloomReach Connect or similar events
