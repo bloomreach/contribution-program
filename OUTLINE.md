@@ -4,7 +4,7 @@ You have an excellent idea for a technical blog post, but you don’t know how t
 
 ## Intro
 
-This is where you set the hook. Keep it short and to the point — but don’t be afraid to make it personal. Let’s say you’re writing a blog post about why you like a particular programming language; Python for example. You can then start the intro with - “Roses are red and violets are blue — I love Python and soon you will too…”.
+This is where you set the hook. Keep it short and to the point — but don’t be afraid to make it personal. Let’s say you’re writing a blog post about why you like a particular programming language; Java for example. You can then start the intro with - “Roses are red and violets are blue — I love Java and soon you will too…”.
 
 Given you only have a few seconds to convince your readers to stick around and read your post in its entirety, the intro is the place for a warm and welcoming tone.
 
