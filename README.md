@@ -9,11 +9,11 @@ Become part of the BloomReach community by contributing content on **"how to bui
 
 ## Our Goal
 
-Here at BloomReach we love developers. Serving and giving back to the community is one of the most rewarding things we do. We want to give back to the developer community by sharing knowledge on CMS & Search related topics through blogposts, videos, tutorials, meetups, conferences, webinars, and other events.
+Here at BloomReach, we love developers. Serving and giving back to the community is one of the most rewarding things we do. We want to give back to the developer community by sharing knowledge on CMS & Search related topics through blog posts, videos, tutorials, meetups, conferences, webinars, and other events.
 
 ## What is the BloomReach contribution program?
 
-The BloomReach contribution program gives you a platform to share your ideas with the BloomReach community and the rest of the world. Let it be a blog post, a video tutorial or something we can not even think of, we want to hear from you and help you to create content that educates and inspires others to join the BloomReach community.
+The BloomReach contribution program gives you a platform to share your ideas with the BloomReach community and the rest of the world. Let it be a blog post, a video tutorial or create something that we have not even thought of yet! We want to hear from you and help you to create content that educates and inspires others to join the BloomReach community.
 
 Our team of professional writers is there to support you in finding the best words and BloomReach will distribute your piece so that it reaches the right people.
 
@@ -23,11 +23,11 @@ We believe that the future of the web is based on core technologies and **we wan
 
 - CMS technologies
 - Integrations with front-end frameworks and third-party tools
-- Information archirecture
+- Information architecture
 
 **BloomReach related how-to's and tutorials are also more than welcome!**
 
-If you have any questions about a certain topic or any suggestions, you are welcome to add a comment to the respective issue.
+If you have any questions about a particular topic or any suggestions, you are welcome to add a comment to the respective issue.
 
 ## Rewards and Perks of being a BloomReach Contributor
 
@@ -42,17 +42,17 @@ While this is not a paid position, our evangelism team set up the program so the
 
 ## "I don't know what to write about!"
 
-Finding the right topic is hard – we know that. If you'd like to write for the BloomReach Developer blog but aren't quite sure about what to write about and need some inspiration, check out [the type of topics we would like to see blog posts about](https://github.com/bloomreach/contribution-program/issues) in this repository. They are labeled by their respective technologies for easy filtering and searching.
+Finding the right topic is hard – we know that. If you aren't quite sure about what to write about and need some inspiration, check out [the type of topics we would like to see blog posts about](https://github.com/bloomreach/contribution-program/issues) in this repository. They are labelled by their respective technologies for easy filtering and searching.
 
 ## How do I get started?
 
-So you have an idea on what to write about and are totally stoked to get started? Open a new issue or comment on an existing one, and someone from **our developer relations team will reach out to you to discuss if your topic is a good fit**. If your topic is selected, we will move your story to [the project board](https://github.com/bloomreach/contribution-program/projects/1) and help you with everything you need.
+So you have an idea on what to write about and are stoked to get started? Open a new issue or comment on an existing one, and someone from **our developer relations team will reach out to you to discuss if your topic is a good fit**. If your idea is selected, we will move your story to [the project board](https://github.com/bloomreach/contribution-program/projects/1) and help you with everything you need.
 
 Once you started writing, we'll make sure your topic is marked as `in progress` to avoid duplicate work.
 
 ### Create an outline to stay focused
 
-Once your article is moved to `in progress`, we'd like you to first write an outline. Writing an article can sometimes be trickier than you think. That's why we think [a structured outline](./OUTLINE.md) will help you find the best possible narrative and stay focused in your writing.
+Once your article moves to `in progress`, we'd like you first to write an outline: writing can sometimes be trickier than you think. That's why we believe [a structured outline](./OUTLINE.md) will help you find the best possible narrative and stay focused on your writing.
 
 ### Labels define process and state
 
